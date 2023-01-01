@@ -10,7 +10,7 @@ namespace Proyecto2
     {
         static void Main(string[] args)
         {
-         /*   int horastrabajadas;
+            int horastrabajadas;
             float costoHora;
             float sueldo;
             String linea;
@@ -26,7 +26,7 @@ namespace Proyecto2
             sueldo= horastrabajadas* costoHora;
             Console.WriteLine("el sueldo total del operario es: " + sueldo);
             Console.ReadKey();
-         */
+         
 
             
 
